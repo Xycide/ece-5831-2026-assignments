@@ -1,11 +1,11 @@
-# ece-55831-2026-assignments
+# ece-5831-2026-assignments
 # A_04
 
 Author: Errick Lisk
-Class: ECE 55831
+Class: ECE 5831
 Date - 10/13/2026
 
-This folder contains the files required for the 4th assignment in ECE 55831.
+This folder contains the files required for the 4th assignment in ECE 5831.
 
 ### multilayer_perceptron.py
 Contains the MultilayerPerceptron class with 4 functions to initialize and perform forward propagation through a neural network. It has 3 input neurons, 3 hidden layers (5, 5, and 2 neurons), and 2 output neurons. Hidden Layers 1-3 use Sigmoid activation while the output layer uses ReLU.
