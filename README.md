@@ -34,3 +34,13 @@ Contains two problems which use trained neural networks to recognize hand gestur
 * P_02/mnist.ipynb - Implements the Mnist class, trains and evaluates a neural network on MNIST, saves and reloads the model, and tests 50 handwritten digit images
 * P_02/mnist_model - Contains the saved MNIST model
 * P_02/images - Contains five handwritten images for each digit from 0 through 9
+
+
+### A06 [Assignment 06]
+Implements a TwoLayerNet trained with numerical gradients on the Iris and MNIST datasets. The saved notebook shows training, model loading, and test results: 96.67% accuracy on Iris and 87.86% on MNIST.
+
+* module6.ipynb - Implements, trains, saves, reloads, and tests both networks
+* lisk_iris_nn_model.pkl - Trained Iris model
+* lisk_mnist_nn_model.pkl - Trained MNIST model
+* data/iris/iris.data - Iris dataset
+* data/mnist.npz - MNIST dataset
