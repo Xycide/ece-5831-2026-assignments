@@ -44,3 +44,8 @@ Implements a TwoLayerNet trained with numerical gradients on the Iris and MNIST 
 * lisk_mnist_nn_model.pkl - Trained MNIST model
 * data/iris/iris.data - Iris dataset
 * data/mnist.npz - MNIST dataset
+
+### A07 [Assignment 07]
+Implements and tests `TwoLayerNetBackprop` and compares its accuracy with Keras on MNIST.
+
+* module7.ipynb - Training, testing, and results for both models
