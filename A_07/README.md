@@ -1,8 +1,5 @@
-# Assignment 07: Neural Network with Backpropagation
-
-Author: Errick Lisk  
-Class: ECE 55831  
-Date: 11/10/2026
+# ece-5831-2026-assignments
+# A_07
 
 Implements `TwoLayerNetBackprop` and compares it with Keras using the MNIST dataset.
 The NumPy model implements forward propagation and backpropagation, while Keras handles the gradient calculations automatically. Both models use the same network structure and training settings, with plots and sample predictions showing the results.

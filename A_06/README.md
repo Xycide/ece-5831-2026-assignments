@@ -1,4 +1,5 @@
-# Assignment 06: Numerical Gradient
+# ece-5831-2026-assignments
+# A_06
 
 This project implements a TwoLayerNet trained with numerical gradients for Iris and MNIST classification. The network has one hidden layer and uses centered finite differences to calculate gradients.
 

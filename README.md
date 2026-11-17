@@ -49,3 +49,9 @@ Implements a TwoLayerNet trained with numerical gradients on the Iris and MNIST 
 Implements and tests `TwoLayerNetBackprop` and compares its accuracy with Keras on MNIST.
 
 * module7.ipynb - Training, testing, and results for both models
+
+### [A08 Assignment 08](A_08/README.md)
+Trains and evaluates a two-layer Keras network on MNIST and a CNN on cat and dog images.
+
+* A_08/Two_layer_net.ipynb - MNIST training, test metrics, and sample predictions
+* A_08/CNN_cat_dog.ipynb - Dataset preparation, CNN training, evaluation, and sample predictions
